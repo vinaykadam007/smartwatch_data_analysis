@@ -22,7 +22,7 @@ Key Challenges:
 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-repo/smartwatch-analysis.git  
+git clone https://github.com/vinaykadam007/smartwatch_data_analysis.git  
 
 2. Navigate to the project directory:
 bash
@@ -32,7 +32,7 @@ cd smartwatch-analysis
 3. Set up a Python virtual environment:
 bash
 Copy code
-python -m venv env  
+python -m venv env 
 source env/bin/activate  # or env\Scripts\activate on Windows  
 
 4. Install dependencies:
