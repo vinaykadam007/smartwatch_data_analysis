@@ -20,24 +20,16 @@ Key Challenges:
 ## Getting Started
 
 1. Clone the repository:
-bash
-Copy code
 git clone https://github.com/vinaykadam007/smartwatch_data_analysis.git  
 
 2. Navigate to the project directory:
-bash
-Copy code
 cd smartwatch-analysis  
 
 3. Set up a Python virtual environment:
-bash
-Copy code
 python -m venv env 
 source env/bin/activate  # or env\Scripts\activate on Windows  
 
 4. Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt  
 
 ## Data
