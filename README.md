@@ -5,10 +5,6 @@
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
 - [Data](#data)
-- [Modeling](#modeling)
-- [Evaluation](#evaluation)
-- [Deployment](#deployment)
-- [Future Work](#future-work)
 - [Contact](#contact)
 
 ## Project Overview
