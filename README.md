@@ -1,6 +1,4 @@
-# Project Title
-
-Smartwatch Fitness Insights: Leveraging Data Science and Python for Activity and Health Analysis 
+# Smartwatch Fitness Insights: Leveraging Data Science and Python for Activity and Health Analysis 
 
 ## Table of Contents
 
