@@ -1,4 +1,4 @@
-# Smartwatch Fitness Insights: Leveraging Data Science and Python for Activity and Health Analysis 
+# Smartwatch Data Analysis
 
 ## Table of Contents
 
